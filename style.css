@@ -1,5 +1,5 @@
 body {
-    color:rgb(55, 55, 112);
+    color:hsl(86, 49%, 55%);
     background:rgb(17, 7, 158);
     margin: 0px;
 }
@@ -8,7 +8,7 @@ header  {
 border-bottom: solid 2px rgb(226, 226, 226);
 padding: 20px;
 font-size: 32px;
-color: rgb (42, 122, 228);
+color: rgb(226, 226, 226) (42, 122, 228);
 }
 
 section {
