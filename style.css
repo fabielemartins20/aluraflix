@@ -2,6 +2,7 @@ body {
     color:hsl(86, 49%, 55%);
     background:rgb(17, 7, 158);
     margin: 0px;
+    font-family: "Pacifico", cursive;
 }
 
 header  {
