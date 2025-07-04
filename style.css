@@ -1,6 +1,6 @@
 body {
     color:hsl(86, 49%, 55%);
-    background:rgb(17, 7, 158);
+    background:rgb(111, 105, 199);
     margin: 0px;
     font-family: "Pacifico", cursive;
 }
@@ -29,5 +29,5 @@ h1{
 }
 
 p{
-    font-size: 20;
+    font-size: 20px;
 }
