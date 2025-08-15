@@ -3,6 +3,7 @@ body {
     background:rgb(111, 105, 199);
     margin: 0px;
     font-family: "Pacifico", cursive;
+    margin-bottom: 100px;
 }
 
 header  {
@@ -41,6 +42,7 @@ p{
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
@@ -50,5 +52,9 @@ p{
 
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 1px solid rgb(88, 91, 134)
+    border: 1px solid rgb(1, 9, 122)
+}
+
+.categoria h2{
+    color: rgb(226, 226, 226) (42, 122, 228);
 }
